@@ -10,6 +10,8 @@ For refrence calculations You can go here.
 Mean of bid-to-total cost ratio (B/TC) = 1.07467
 
 Std. Deviation = 0.0630
+![Screenshot (72)](https://github.com/Rishabh181/Optimal-Bid-Markup-Calculator/assets/84246861/0511c23b-56f6-4924-ad05-6bd53a465270)
+
 
 ![Screenshot (68)](https://github.com/Rishabh181/Optimal-Bid-Markup-Calculator/assets/84246861/ebe3c1c2-e0a7-4fbd-809d-c32134665914)
 
