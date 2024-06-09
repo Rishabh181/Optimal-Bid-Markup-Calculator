@@ -110,8 +110,13 @@ int main() {
     << endl;
     cout<<" answer with friedmans model '"<< peakfriedman <<"' and amount "<<
     ansfriedman << endl ;
+    
+    double moderatevalue = (peakgate + peakfriedman )/ 2.0 ;
 
-    cout<<"moderate percentage of markup would be = " << (ansfriedman + ansgate )/ 2 <<endl;
+    cout<<"moderate percentage of markup would be = " << moderatevalue <<endl;
+    
+    
+    cout<<"amount of BID principle that might be used for winning the bid is = "<< (long)(principle + principle*moderatevalue/100.0)<<endl;
 
     // if(ch == 'F')
     // cout << " with amount "<< friedmanprice(peak ,numberofcompetitor, mean, stddeviation, principle) ;
